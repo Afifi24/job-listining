@@ -1,0 +1,17 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+
+.bgimg{
+    background-image: url('./images/bg-header-desktop.svg');
+    background-position: center;
+    background-size: cover;
+    background-repeat: no-repeat;
+}
+@media (max-width:600px){
+    .bgimg{
+        background-image: url('./images/bg-header-mobile.svg');
+    }
+
+}
