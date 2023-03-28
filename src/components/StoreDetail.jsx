@@ -1,9 +1,11 @@
 import React, { useState } from 'react'
 import close from '../images/icon-remove.svg'
-const StoreDetail = ({item,store,setStore}) => {
+const StoreDetail = ({item,store,setStore,setSearch}) => {
     const Delete =(elem)=>{
         const deleted = store.filter(fil=>fil.id!==elem.id)
        setStore(deleted)
+       setSearch('')
+
   }
   return (
     <div>

@@ -29,8 +29,8 @@ const CardItems = ({item,index,Add}) => {
             <button onClick={()=>Add(item.level)} className='bg-lightbackground text-[12px] py-1 px-2 rounded-sm text-darkgreen font-bold hover:bg-darkgreen hover:text-white duration-200'>{item.level}</button>
           </div>
           {item.languages.map((element,index)=>(
-            <div key={element.id}  className='flex-wrap'>
-              <button  onClick={()=>Add(element.title)} className='bg-lightbackground text-[12px] py-1 px-2 rounded-sm text-darkgreen font-bold hover:bg-darkgreen hover:text-white duration-200'>{element.title}</button>
+            <div key={element}  className='flex-wrap'>
+              <button  onClick={()=>Add(element)} className='bg-lightbackground text-[12px] py-1 px-2 rounded-sm text-darkgreen font-bold hover:bg-darkgreen hover:text-white duration-200'>{element}</button>
             </div>
           ))}
           

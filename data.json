@@ -11,21 +11,7 @@
     "postedAt": "1d ago",
     "contract": "Full Time",
     "location": "USA Only",
-    "languages": [
-      {
-        "id":10,
-        "title":"HTML"
-       },
-      {
-        "id":11,
-        "title":"CSS"
-       },
-       {
-         "id":12,
-        "title":"JavaScript"
-       }
-      
-    ],
+    "languages": ["HTML","CSS","JavaScript"],
     "tools": []
   },
   {
@@ -40,13 +26,7 @@
     "postedAt": "1d ago",
     "contract": "Part Time",
     "location": "Remote",
-    "languages": [
-      {
-        "id":13,
-        "title":"Python"
-       }
-      
-    ],
+    "languages": ["Python" ],
     "tools": ["React"]
   },
   {
@@ -61,13 +41,7 @@
     "postedAt": "2d ago",
     "contract": "Part Time",
     "location": "USA Only",
-    "languages": [
-      
-       {
-         "id":14,
-        "title":"JavaScript"
-       }
-    ],
+    "languages": ["JavaScript"],
     "tools": ["React", "Sass"]
   },
   {
@@ -82,17 +56,7 @@
     "postedAt": "5d ago",
     "contract": "Contract",
     "location": "USA Only",
-    "languages": [
-      {
-       "id":15,
-       "title":"CSS"
-      },
-      {
-        "id":7,
-       "title":"JavaScript"
-      }
-      
-      ],
+    "languages": ["CSS","JavaScript" ],
     "tools": []
   },
   {
@@ -107,13 +71,7 @@
     "postedAt": "1w ago",
     "contract": "Full Time",
     "location": "Worldwide",
-    "languages": [
-      
-       {
-         "id":16,
-        "title":"JavaScript"
-       }
-    ],
+    "languages": ["JavaScript"],
     "tools": ["Ruby", "Sass"]
   },
   {
@@ -128,13 +86,7 @@
     "postedAt": "2w ago",
     "contract": "Full Time",
     "location": "UK Only",
-    "languages": [
-      {
-        "id":17,
-        "title":"Ruby"
-       }
-     
-    ],
+    "languages": ["Ruby"],
     "tools": ["RoR"]
   },
   {
@@ -149,17 +101,7 @@
     "postedAt": "2w ago",
     "contract": "Full Time",
     "location": "Worldwide",
-    "languages": [
-      {
-        "id":18,
-        "title":"HTML"
-       },
-      
-       {
-         "id":19,
-        "title":"JavaScript"
-       }
-    ],
+    "languages": ["HTML","JavaScript"],
     "tools": ["Sass"]
   },
   {
@@ -174,13 +116,7 @@
     "postedAt": "2w ago",
     "contract": "Full Time",
     "location": "USA Only",
-    "languages": [
-   
-       {
-         "id":20,
-        "title":"JavaScript"
-       }
-    ],
+    "languages": ["JavaScript"],
     "tools": ["Vue", "Sass"]
   },
   {
@@ -195,17 +131,7 @@
     "postedAt": "3w ago",
     "contract": "Full Time",
     "location": "Worldwide",
-    "languages": [
-      {
-        "id":21,
-        "title":"Python"
-       },
-      
-       {
-         "id":22,
-        "title":"JavaScript"
-       }
-    ],
+    "languages": ["Python", "JavaScript"],
     "tools": ["Django"]
   },
   {
@@ -220,13 +146,7 @@
     "postedAt": "1mo ago",
     "contract": "Part Time",
     "location": "Worldwide",
-    "languages": [
-      
-       {
-         "id":23,
-        "title":"JavaScript"
-       }
-    ],
+    "languages": ["JavaScript"],
     "tools": ["React", "Sass"]
   }
 ]
