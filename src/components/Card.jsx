@@ -1,5 +1,5 @@
 import React from 'react'
-import data from '../data.json'
+import data from '../../data.json'
 import CardItem from './CardItems'
 import Filtring from './Filtring'
 const Card = ({Add,store,setStore,search,setSearch}) => {
