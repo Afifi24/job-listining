@@ -1,6 +1,5 @@
 import React,{useState} from 'react'
 import Card from './components/Card'
-import green from './images/bg-header-desktop.svg'
 import Filtring from './components/Filtring'
 const App = () => {
   const [store,setStore] = useState([])
